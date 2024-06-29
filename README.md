@@ -1,2 +1,3 @@
 # DesafiosAlura
-Desafios de códigos laçados durante o curso de logica de programação com javascript. 
+Desafios de códigos laçados durante a formação Iniciante em Programação T7 - ONE. 😄
+
